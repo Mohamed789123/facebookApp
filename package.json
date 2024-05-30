@@ -1,0 +1,23 @@
+{
+  "name": "mohamed-adel-sun-wed-4-7-assignment6-01100665421",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "engines": {
+    "node": "20.12.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.9",
+    "nodemon": "^3.1.1",
+    "sequelize": "^6.37.3"
+  }
+}
